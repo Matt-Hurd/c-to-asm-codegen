@@ -1,0 +1,1208 @@
+Implement a recursive function to calculate the nth Fibonacci number.
+Create a class representing a singly linked list with methods for insertion, deletion, and search.
+Write a function to reverse a string in-place using pointers.
+Implement a function to find the largest element in a dynamically allocated array.
+Create a class to represent a binary search tree with methods for insertion, deletion, and searching.
+Write a function that implements a depth-first search algorithm on a graph represented as an adjacency matrix.
+Implement a function to perform a breadth-first search on a graph represented as an adjacency list.
+Create a class that represents a queue using a circular buffer.
+Write a function that sorts an array of integers using merge sort.
+Implement a function to check if a given string is a palindrome.
+Create a class to represent a polynomial, with methods for addition and multiplication.
+Write a function that converts an integer to its binary representation.
+Implement a function to convert a binary string to an integer.
+Create a class representing a date, with methods for comparison and arithmetic operations.
+Write a function that calculates the greatest common divisor (GCD) of two integers using Euclid's algorithm.
+Implement a function to find the least common multiple (LCM) of two integers.
+Create a class to represent a complex number, with methods for addition, subtraction, multiplication, and division.
+Write a function that implements the Sieve of Eratosthenes to find all prime numbers up to a given limit.
+Implement a function that checks if a number is prime using trial division.
+Create a class that represents a rational number, with methods for addition, subtraction, multiplication, and division.
+Write a function that converts a decimal number to a hexadecimal number.
+Implement a function that converts a hexadecimal number to a decimal number.
+Create a class that represents a fraction, with methods for simplification and arithmetic operations.
+Write a function to find all permutations of a given string.
+Implement a function to check if two strings are anagrams.
+Create a class that represents a graph using an adjacency matrix, with methods for adding edges and checking connectivity.
+Write a function that implements Dijkstra's algorithm to find the shortest path between two nodes in a graph.
+Implement a function that implements Prim's algorithm to find a minimum spanning tree in a graph.
+Create a class that represents a graph using an adjacency list, with methods for adding edges and checking connectivity.
+Write a function that implements Kruskal's algorithm to find a minimum spanning tree in a graph.
+Implement a function that performs topological sort on a directed acyclic graph.
+Create a class that represents a set using a bit vector.
+Write a function that checks if two sets are equal.
+Implement a function to find the union of two sets.
+Create a class that represents a stack using a linked list.
+Write a function that converts an infix expression to a postfix expression.
+Implement a function that evaluates a postfix expression.
+Create a class that represents a hash table using separate chaining.
+Write a function that implements a linear probing collision resolution technique for a hash table.
+Implement a function that implements quadratic probing collision resolution technique for a hash table.
+Create a class that represents a heap, with methods for insertion, deletion, and heapify.
+Write a function that sorts an array of integers using heapsort.
+Implement a function that implements the quicksort algorithm.
+Create a class that represents a matrix, with methods for addition, subtraction, multiplication, and transposition.
+Write a function that finds the determinant of a square matrix.
+Implement a function that solves a system of linear equations using Gaussian elimination.
+Create a class that represents a sparse matrix using a linked list.
+Write a function that performs matrix multiplication for sparse matrices.
+Implement a function that performs matrix addition for sparse matrices.
+Create a class representing a doubly linked list with methods for insertion, deletion, and traversal in both directions.
+Write a function to find the middle element of a singly linked list in one pass.
+Implement a function to detect a cycle in a singly linked list using Floyd's cycle-finding algorithm.
+Create a class to represent a circular linked list with methods for insertion, deletion, and traversal.
+Write a function that merges two sorted linked lists into a single sorted linked list.
+Implement a function to reverse a singly linked list iteratively.
+Create a function that reverses a singly linked list recursively.
+Write a function that sorts a linked list using merge sort.
+Implement a function to check if a binary tree is a binary search tree.
+Create a class that represents a binary tree with methods for traversal (inorder, preorder, postorder).
+Write a function that finds the height of a binary tree.
+Implement a function to find the diameter of a binary tree.
+Create a class representing a complete binary tree with methods for heap operations.
+Write a function that constructs a complete binary tree from a sorted array.
+Implement a function to check if a given tree is balanced (AVL tree properties).
+Create a function to construct a complete binary tree from a given level-order traversal.
+Write a function that converts a given tree to a mirror image.
+Implement a function to print nodes at k distance from root.
+Create a function that computes the number of nodes in a binary tree.
+Write a function that computes the sum of nodes in a binary tree.
+Implement a function that counts the number of leaf nodes in a binary tree.
+Create a function that checks if two trees are identical.
+Write a function to find the lowest common ancestor (LCA) of two nodes in a binary tree.
+Implement a function to find the maximum path sum in a binary tree.
+Create a function to check if a given binary tree is a subtree of another binary tree.
+Write a function to check if a tree is a complete binary tree.
+Implement a function to serialize a binary tree to a file and deserialize it from a file.
+Create a function to determine if a binary tree is height-balanced.
+Write a function that performs level order traversal of a binary tree.
+Implement a function to create a binary tree from preorder and inorder traversals.
+Create a function to create a binary tree from postorder and inorder traversals.
+Write a function to implement the inorder traversal of a tree iteratively without using recursion.
+Implement a function to implement the preorder traversal of a tree iteratively without using recursion.
+Create a function to implement the postorder traversal of a tree iteratively without using recursion.
+Write a function to construct a binary tree from a given array representing its level order traversal.
+Implement a function to find the maximum width of a binary tree.
+Create a function to calculate the vertical order traversal of a binary tree.
+Write a function to perform spiral level order traversal of a binary tree.
+Implement a function to check if two trees are isomorphic.
+Create a function to print boundary traversal of a binary tree.
+Write a function to print the left view of a binary tree.
+Implement a function to print the right view of a binary tree.
+Create a function to print the top view of a binary tree.
+Write a function to print the bottom view of a binary tree.
+Implement a function that checks if a binary tree is perfect.
+Create a function to flatten a binary tree to a linked list.
+Write a function to check if a given binary tree is a full binary tree.
+Implement a function to perform an iterative inorder traversal using a stack.
+Create a function to convert a binary tree into its mirror image using iterative approach.
+Write a function to delete a node in a binary search tree.
+Implement a function to find the inorder successor in a binary search tree.
+Create a function to find the inorder predecessor in a binary search tree.
+Write a function to implement iterative post order traversal using two stacks.
+Implement a function to perform iterative level order traversal using a queue.
+Create a function to implement a Morris traversal for inorder traversal of a binary tree.
+Write a function to find the kth smallest element in a Binary Search Tree.
+Implement a function that counts the number of full nodes in a binary tree.
+Create a function that calculates the sum of nodes at a given level in a binary tree.
+Write a function to check if a binary tree is a complete binary tree using level order traversal.
+Implement a function to check if a given binary tree is a perfect binary tree recursively.
+Create a function to check if a given binary tree is a perfect binary tree iteratively.
+Write a function that efficiently checks if a tree is a BST using inorder traversal.
+Implement a function to flatten a binary tree to a linked list while maintaining inorder traversal.
+Create a function to convert a sorted array to a balanced binary search tree.
+Write a function to determine if a given tree is a sum tree (node value is equal to sum of left and right child).
+Implement a function to find the closest element to a given value in a Binary Search Tree.
+Create a function to convert a general tree to a binary tree using the left-child right-sibling representation.
+Write a function to count the number of paths in a binary tree from the root node to leaf nodes that add up to a given sum.
+Implement a function to find the root to leaf path with maximum sum in a binary tree.
+Create a function to construct a binary tree from its level order traversal, where each element contains its level number as well.
+Write a function to implement iterative pre order traversal using a stack.
+Implement a function to check if the given binary tree is a mirror of another binary tree.
+Create a class to represent an AVL tree, including methods for insertion and deletion.
+Write a function that finds the kth smallest element in an AVL tree.
+Implement a function to check the balance factor of a node in an AVL tree.
+Create a function that finds the height of an AVL tree.
+Write a function to implement the rotation operations for AVL trees (left rotation, right rotation, double rotations).
+Implement a function to check if an AVL tree is balanced using recursion.
+Create a function to check if an AVL tree is balanced using iterative approach.
+Write a function to delete a node from an AVL tree while maintaining AVL properties.
+Implement a function to find the successor of a node in an AVL tree.
+Create a function to find the predecessor of a node in an AVL tree.
+Write a function to find the closest element to a given value in an AVL tree.
+Implement a function to implement an efficient search in an AVL tree.
+Create a function to serialize an AVL tree to a file and deserialize it.
+Write a function to determine if a given tree is an AVL tree.
+Implement a function to construct an AVL tree from sorted data.
+Create a function to perform a range search in an AVL tree (finding nodes within a certain range).
+Write a function to check if a given AVL tree is a valid AVL tree (all balance factors within -1, 0, 1).
+Implement a function that counts the number of unbalanced nodes in an AVL tree.
+Create a function to find the deepest node in an AVL tree (furthest from the root).
+Write a function to find the lowest common ancestor of two nodes in an AVL tree.
+Implement a function to delete a given node and perform required rotations in the AVL tree.
+Create a function to find the maximum path sum in an AVL tree.
+Write a function to find the diameter of an AVL tree (longest path between any two nodes).
+Implement a function to rotate a subtree within an AVL tree after an insertion or deletion operation.
+Create a function that builds an AVL tree from a pre-order traversal.
+Write a function to find the height of an AVL tree without recursion.
+Implement a function to perform a specific type of tree traversal(zigzag, level order).
+Create a function that utilizes bitwise operations for efficient manipulation of nodes in AVL tree.
+Write a function to find all paths with a given sum in an AVL tree.
+Implement a function to balance an already existing binary tree to convert it to an AVL tree.
+Create a function to convert a BST to an AVL tree using rotations and rebalancing.
+Write a function to efficiently compute the vertical sum of nodes in an AVL tree.
+Write a function that reverses a string using pointers.
+Implement a template function to find the maximum element in an array of any type.
+Create a class representing a binary search tree with methods for insertion, deletion, and search.
+Write a program that simulates a simple queue using an array.
+Implement a recursive function to calculate the greatest common divisor (GCD) of two integers.
+Create a class representing a complex number with methods for addition, subtraction, multiplication, and division.
+Write a function that converts a decimal number to its binary representation.
+Implement a template function to merge two sorted arrays of any type.
+Create a program that reads integers from a file and calculates their average.
+Write a function that checks if a string is a palindrome.
+Implement a recursive function to calculate the power of a number.
+Create a class representing a rational number with methods for addition, subtraction, multiplication, and division.
+Write a function that counts the number of vowels in a string.
+Implement a template function to search for an element in an array using linear search.
+Create a program that generates a random password of a specified length.
+Write a function that converts a string to uppercase.
+Implement a recursive function to traverse a directory and print the names of all files.
+Create a class representing a date with methods for comparing dates.
+Write a function that sorts an array of integers using insertion sort.
+Implement a template function to copy an array of any type.
+Create a program that reads a text file and counts the occurrence of each character.
+Write a function that checks if a given year is a leap year.
+Implement a recursive function to calculate the sum of digits of a number.
+Create a class representing a stack using a linked list.
+Write a function that implements the Tower of Hanoi algorithm.
+Implement a template function that finds the median of an array.
+Create a program that generates all permutations of a string.
+Write a function to convert a string to an integer.
+Implement a template function to perform a binary search on a sorted array.
+Create a class representing a polynomial with methods for addition and multiplication.
+Write a function to remove duplicate characters from a string.
+Implement a template class for a dynamic array.
+Create a program to calculate the factorial of a large number using arbitrary precision arithmetic.
+Write a function to check if a given string is a valid email address.
+Implement a recursive function that converts an integer to its Roman numeral representation.
+Create a class representing a point in 2D space, with methods for distance calculation.
+Write a function to determine if a graph is connected using Depth First Search (DFS).
+Implement a template function to find the intersection of two sorted arrays.
+Create a class that represents a simple graph with adjacency matrix representation and methods to add edges, check connections, and implement Breadth-First Search (BFS).
+Write a function that implements the Sieve of Eratosthenes algorithm for finding prime numbers.
+Implement a recursive function to solve the N-Queens problem.
+Create a class that represents a queue with array implementation and functions for enqueue, dequeue, and size.
+Write a function to check if a given binary tree is a Binary Search Tree (BST).
+Implement a function to calculate the area under a curve using numerical integration methods such as trapezoidal rule.
+Create a class that implements a hash table using separate chaining to handle collisions.
+Write a function to find the shortest path between two nodes in an unweighted graph using BFS.
+Implement a function to check if a given undirected graph contains a cycle using Depth-First Search (DFS).
+Create a class that represents a doubly linked list with insertion and deletion methods at the beginning and end.
+Write a function that sorts an array using merge sort.
+Implement a function to perform matrix multiplication of two matrices.
+Create a class representing a vector in 2D space and provide methods to perform vector addition, subtraction, dot product, and cross product.
+Write a function that converts a given infix expression to postfix notation.
+Implement a template class to implement a priority queue using a heap.
+Create a function that finds the longest common subsequence of two strings.
+Write a function that implements Dijkstra's algorithm to find the shortest paths from a single source node in a weighted graph.
+Implement a recursive function that solves the subset sum problem.
+Create a program that reads integers from a file and performs different statistical analyses, including mean, median, standard deviation, and variance.
+Write a function that generates all possible subsets of a given set.
+Implement a function to convert a decimal number to any given base (e.g., binary, octal, hexadecimal).
+Create a class representing a polynomial with methods for differentiation and integration.
+Write a function to evaluate a postfix expression.
+Implement a function to perform topological sort on a directed acyclic graph.
+Create a program that counts the number of lines, words, and characters in a file.
+Write a function that checks if a string contains only alphanumeric characters.
+Implement a function that removes all whitespace characters from a string.
+Create a class representing a circle and compute the area and circumference.
+Write a function to check if two rectangles overlap.
+Implement a function that finds the largest prime factor of a number.
+Create a class that represents a triangle and calculates the area using Heron's formula.
+Write a function to check if a number is a perfect square.
+Implement a recursive function to flatten a nested list.
+Create a class representing a queue using two stacks.
+Write a function that finds the second largest number in an array.
+Implement a recursive function that generates all combinations of a set.
+Create a program to perform matrix transposition.
+Write a function to find the longest palindrome substring in a given string.
+Implement a function to convert a given date from one format to another.
+Create a class representing a rectangle with methods to calculate area, perimeter, and diagonal length.
+Write a function to convert a number from one numeral system (e.g. decimal, binary, hexadecimal) to another.
+Implement a recursive function to check if a tree is balanced.
+Create a class that represents a student with attributes (name, ID, grades) and methods to calculate average grade.
+Write a function to perform a depth-first search traversal of a graph, using an adjacency list.
+Implement a function to check if a given array is a subset of another array.
+Create a class that implements a min-heap with methods for insertion, deletion, and peek.
+Write a function to find the least common multiple (LCM) of two integers.
+Implement a recursive function to traverse a tree and print its nodes in pre-order, in-order and post-order traversals.
+Create a program that simulates a simple banking system with account creation, deposit, and withdrawal operations.
+Write a function that performs a breadth-first search traversal of a graph.
+Implement a function to convert an array of characters to a string.
+Create a class that represents a fraction with methods for addition, subtraction, multiplication, and division.
+Write a function that converts a given RGB color code to a hexadecimal color code.
+Implement a function that implements the Quick Sort algorithm.
+Create a class representing a book with title, author, and ISBN, and a method to display book information.
+Write a function that implements the linear congruential generator (LCG) method for pseudorandom number generation.
+Implement a function to remove a specific element from a linked list.
+Create a class representing a calendar with functions to display the calendar for a specified month and year.
+Write a function to convert an integer to its equivalent Roman numeral representation.
+Implement a function to detect loops in a linked list using Floyd's cycle detection algorithm.
+Create a class that represents a dictionary implemented using a hash table.
+Write a function to find all paths between two nodes in a graph.
+Implement a function to find the strongly connected components of a directed graph using Tarjan's algorithm.
+Create a class representing an employee with attributes (name, ID, salary) and methods to calculate total salary of employees.
+Write a function that implements a simple command-line calculator.
+Implement a recursive function to calculate the height of a binary tree.
+Create a class that represents a car with attributes (make, model, year, color) and methods to display car information.
+Write a function to reverse a linked list in place.
+Implement a recursive function to check if two binary trees are identical.
+Create a class that represents a singly linked list and methods to sort it using merge sort.
+Write a function to search for a pattern in a text using the Knuth-Morris-Pratt (KMP) algorithm.
+Implement a function that checks if a given graph is bipartite using BFS or DFS.
+Create a class that represents a customer with attributes (name, address, phone number).
+Write a function to calculate the factorial using iteration.
+Implement a function that solves the 8 puzzle problem using Breadth-First Search.
+Create a class that represents a file system with operations to create, delete, and rename files and directories.
+Write a function to check for balanced parenthesis in an expression.
+Implement a function to find the median of two sorted arrays.
+Create a class representing a graph using an adjacency list, including methods for adding and removing edges.
+Write a function to perform radix sort on an array of integers.
+Implement a function to find the diameter of a tree.
+Create a class representing a simple calculator with methods for addition, subtraction, multiplication, and division.
+Write a function to implement the counting sort algorithm.
+Implement a function that calculates the convex hull of a set of points using Graham's scan algorithm.
+Create a class representing a point in 3D space, with methods to compute distance between points and vector operations.
+Write a function to check if a string is a valid URL.
+Implement a function that finds all palindromic substrings in a string.
+Create a class that represents a stack and implements methods for push, pop, and peek using dynamic array.
+Write a function that checks if a Sudoku grid is valid.
+Implement a recursive function to find all permutations of a set.
+Create a class that implements a binary heap, with methods for insertion, extraction, and heapify.
+Write a function to sort an array using selection sort.
+Implement a function to perform inorder tree traversal of a binary search tree.
+Create a class representing a doubly linked list with methods to insert and delete elements at both ends.
+Write a function to implement shell sort.
+Implement a function to find all subsets of a given set.
+Create a program that simulates a simple game of tic-tac-toe.
+Write a function that finds the greatest common divisor (GCD) of multiple numbers.
+Implement a function to detect cycles in a directed graph using Depth-First Search.
+Create a program that generates Fibonacci numbers up to a specified limit.
+Write a function to check if two binary trees are isomorphic.
+Implement a function to convert a string into a reversed string.
+Create a class that represents a binary tree and methods to traverse it in preorder, inorder and postorder.
+Write a function that finds the kth smallest element in an array using QuickSelect.
+Implement a recursive function to solve the subset sum problem.
+Create a class representing a graph using an adjacency matrix, and methods for traversal.
+Write a function to find the longest increasing subsequence in an array.
+Implement a function to check if a string is an anagram of another string.
+Create a program that reads data from a CSV file and stores it in a suitable data structure.
+Write a function to check if a given graph is connected using Depth First Search (DFS)
+Implement a function to perform inorder, preorder, postorder traversals of a binary tree using iterative approach.
+Create a class that represents a min-heap with functions to insert, delete minimum, and decrease key.
+Write a function to check if a given binary tree is height-balanced.
+Implement a function to perform a topological sort using Kahn's algorithm.
+Create a class representing a set using a bit vector and functions to perform set operations(union, intersection, difference).
+Write a function to generate prime numbers within a range using Sieve of Eratosthenes.
+Implement a function to detect and remove duplicates in a sorted linked list.
+Create a class representing a red-black tree, implementing insertion and deletion.
+Write a function to find the kth smallest element in a BST.
+Implement a function to perform postorder traversal iteratively using two stacks.
+Create a program that implements Huffman coding for text compression.
+Write a function to compute the edit distance between two strings.
+Implement a function to find the strongly connected components of a directed graph using Kosaraju's algorithm.
+Create a class representing a disjoint-set data structure, implementing union and find operations.
+Write a function that performs a topological sort using Depth First Search.
+Implement a function to implement the counting sort algorithm for a list of strings.
+Create a class that simulates the functionality of a simple stack using a linked list.
+Write a function to perform base conversion using Horner's method.
+Implement a recursive function to compute the determinant of a matrix.
+Create a class implementing a bloom filter data structure for approximate set membership testing.
+Write a function to find the median from a stream of numbers efficiently.
+Implement a function to perform string formatting according to custom specifications.
+Create a program to implement a basic spell checker using a Trie data structure.
+Write a function to convert an infix expression to prefix notation.
+Implement a recursive function to traverse a graph using Depth-First Search (DFS) and print the nodes in visited order.
+Create a program that implements a simple text-based adventure game.
+Write a function that solves the Knapsack problem using dynamic programming.
+Implement a recursive function that returns all possible paths in a matrix.
+Create a program that encodes and decodes messages using a substitution cipher.
+Write a function to find all the prime factors of a given number.
+Implement a function that checks if a given tree is a complete binary tree.
+Create a program that searches a given set of words and outputs those starting with a user specified character.
+Write a function that performs binary search in a rotated array.
+Implement a recursive function to find the nth Catalan number.
+Create a function that simulates throwing a dice a specified number of times and outputs results with frequency distribution.
+Write a function to check if a binary tree is symmetric(mirror image).
+Implement a recursive function to print the path from the root node to each leaf node of a binary tree.
+Create a program that encrypts and decrypts messages using a Caesar cipher.
+Write a function to find the maximum sum path from root to leaf of a binary tree.
+Implement a recursive function to construct a binary tree from preorder and inorder traversals.
+Create a program that checks for balanced parentheses in an arithmetic expression.
+Write a function to check if all characters in a string are unique.
+Implement a function to check if a given graph is a tree (connected and acyclic).
+Create a program that implements a simple calculator that can perform basic arithmetic operations.
+Write a function to check if two strings are rotations of each other.
+Implement a function to find the minimum element in a rotated sorted array.
+Create a class representing a timer with methods to start, stop, and get elapsed time.
+Write a function to perform a level order traversal of a binary tree using a queue.
+Implement a recursive function to reverse a string.
+Create a program that converts temperature from Celsius to Fahrenheit and vice-versa.
+Write a function to generate all possible binary strings of length n.
+Implement a function to print the inorder traversal of a binary tree without using recursion.
+Create a program that simulates a simple library management system.
+Write a function to remove spaces from a string.
+Implement a function to add two binary numbers represented as strings.
+Create a program to find the factorial of a number iteratively.
+Write a function to count the frequency of characters in a string.
+Implement a function to check if a given string is a valid IP address.
+Create a program that displays the current date and time.
+Write a function to convert decimal to binary using recursion.
+Implement a recursive function to check if a binary tree is a BST.
+Create a program that generates a random password of a given length.
+Write a function to find the sum of all even Fibonacci numbers up to a given limit.
+Implement a recursive function that checks if a number is a palindrome.
+Create a class representing a singly linked list with methods for insertion, deletion, and traversal.
+Write a function to reverse a string in-place without using extra memory.
+Implement a templated function to find the maximum element in an array of any comparable type.
+Create a class representing a binary search tree with methods for insertion, deletion, and searching.
+Write a function to check if a given string is a palindrome.
+Implement a recursive function to perform a depth-first search on a graph represented as an adjacency list.
+Create a class representing a queue using a circular buffer.
+Write a function to implement the quicksort algorithm recursively.
+Implement a templated function to perform a binary search on a sorted array.
+Create a class representing a hash table with separate chaining for collision handling.
+Write a function to find the longest common subsequence of two strings.
+Implement a recursive function to convert a decimal number to its binary representation.
+Create a class representing a graph using an adjacency matrix and implement Dijkstra's algorithm.
+Write a function to check if a given graph is a tree.
+Create a class representing a priority queue using a min-heap.
+Write a function to implement the merge sort algorithm.
+Implement a templated function to perform a linear search on an array.
+Write a function to convert an infix expression to a postfix expression.
+Implement a recursive function to evaluate a postfix expression.
+Create a class representing a polynomial and implement methods for addition and multiplication.
+Write a function to find the greatest common divisor of two numbers using Euclid's algorithm.
+Implement a function to find the least common multiple of two numbers.
+Create a class representing a complex number and implement methods for addition, subtraction, multiplication, and division.
+Write a function to generate all permutations of a given string.
+Implement a recursive function to solve the Tower of Hanoi puzzle.
+Create a class representing a date and implement methods for comparing dates.
+Write a function to calculate the factorial of a number iteratively.
+Implement a function to check if a year is a leap year.
+Create a class representing a time and implement methods for calculating time differences.
+Write a function to format a date and time string.
+Implement a function to convert a string to an integer.
+Create a class representing a rational number and implement methods for addition, subtraction, multiplication, and division.
+Write a function to find the nth prime number.
+Implement a function to determine if a number is a prime number.
+Create a class representing a matrix and implement methods for matrix addition, subtraction, and multiplication.
+Write a function to find the determinant of a matrix.
+Implement a function to find the inverse of a matrix.
+Create a class representing a point in 2D space and implement methods for calculating distance and slope.
+Write a function to calculate the area of a triangle given three points.
+Implement a function to calculate the area of a circle given its radius.
+Create a class representing a rectangle and implement methods for calculating perimeter and area.
+Write a function to calculate the volume of a sphere given its radius.
+Implement a function to solve a quadratic equation.
+Create a class representing a line and implement methods for calculating intersection points.
+Write a function to find the roots of a cubic equation using Cardano's method.
+Implement a function to convert Celsius to Fahrenheit.
+Create a class representing a temperature and implement methods for conversion between Celsius and Fahrenheit.
+Write a function to calculate the distance between two points in 3D space.
+Implement a function to calculate the dot product of two vectors.
+Create a class representing a vector in 3D space and implement methods for addition, subtraction, and scalar multiplication.
+Write a function to calculate the cross product of two vectors.
+Implement a function to calculate the magnitude of a vector.
+Create a class representing a quaternion and implement methods for rotation.
+Write a function to normalize a vector.
+Implement a function to find the angle between two vectors.
+Create a class representing a plane in 3D space.
+Write a function to find the intersection point of a line and a plane.
+Implement a function to project a point onto a plane.
+Create a class representing a ray and implement methods for ray-tracing.
+Write a function to find the intersection point of two lines.
+Implement a function to calculate the area of a polygon given its vertices.
+Create a function that calculates the sum of all even numbers in a given range.
+Implement a function that counts the number of occurrences of a specific character in a string.
+Create a function that reverses a number.
+Write a function that checks if a given number is a perfect square.
+Implement a function that checks if a given number is an Armstrong number.
+Create a function that calculates the sum of digits of a number.
+Write a function to check if two strings are anagrams of each other.
+Implement a function that finds the longest palindromic substring in a given string.
+Create a function that converts a Roman numeral to an integer.
+Write a function that converts an integer to a Roman numeral.
+Implement a function that finds all prime numbers within a given range using the Sieve of Eratosthenes algorithm.
+Create a function that calculates the factorial of a large number using arbitrary-precision arithmetic.
+Write a function that performs matrix exponentiation using divide-and-conquer.
+Implement a function to calculate the determinant of a sparse matrix using efficient techniques.
+Create a function that solves a system of linear equations using Gaussian elimination.
+Write a function that computes the eigenvalues and eigenvectors of a symmetric matrix.
+Implement a function to perform matrix decomposition using LU decomposition.
+Create a function that solves a linear programming problem using the simplex method.
+Write a function that implements the Karatsuba algorithm for fast integer multiplication.
+Implement a function that computes the greatest common divisor using the binary GCD algorithm.
+Create a function that calculates the modular inverse of an integer using the extended Euclidean algorithm.
+Write a function that computes the discrete logarithm using the Baby-step Giant-step algorithm.
+Implement a function that performs RSA encryption and decryption.
+Create a function that generates prime numbers using probabilistic primality testing (Miller-Rabin).
+Write a function that performs elliptic curve cryptography operations.
+Implement a function that performs a fast Fourier transform (FFT).
+Create a function that simulates a Markov chain.
+Write a function to solve the traveling salesman problem using branch and bound.
+Implement a function to solve the knapsack problem using dynamic programming.
+Create a function that implements the Floyd-Warshall algorithm for finding all-pairs shortest paths.
+Write a function that performs topological sorting on a directed acyclic graph.
+Implement a function to detect cycles in a directed graph using depth-first search.
+Create a function that finds the minimum spanning tree of a graph using Prim's algorithm.
+Write a function to find the strongly connected components in a directed graph using Kosaraju's algorithm.
+Implement a function that calculates the shortest path in a graph using Bellman-Ford algorithm.
+Create a function that performs topological sort of a directed acyclic graph using Kahn's algorithm.
+Write a function that finds articulation points in an undirected graph using Tarjan's algorithm.
+Implement a function that finds bridges in an undirected graph using Tarjan's algorithm.
+Create a function that calculates the diameter of a tree.
+Write a function that performs level-order traversal of a tree.
+Create a function to perform inorder traversal of a binary tree.
+Write a function to perform preorder traversal of a binary tree.
+Implement a function to perform postorder traversal of a binary tree.
+Create a function to construct a binary tree from inorder and preorder traversal.
+Write a function to construct a binary tree from inorder and postorder traversal.
+Implement a function to check if two binary trees are identical.
+Create a function to find the height of a binary tree.
+Write a function to find the diameter of a binary tree.
+Implement a function to find the lowest common ancestor of two nodes in a binary tree.
+Write a function to serialize and deserialize a binary tree.
+Implement a function to invert a binary tree.
+Create a function that checks if a binary tree is balanced.
+Write a function to construct a complete binary tree from its level order traversal.
+Implement a function to construct a max heap from an array.
+Create a function to construct a min heap from an array.
+Write a function to heapify an array to form a max heap.
+Implement a function to heapify an array to form a min heap.
+Create a function that performs heapsort on an array.
+Write a function to find the kth largest element in an array using a min heap.
+Implement a function to find the kth smallest element in an array using a max heap.
+Create a function that performs Huffman coding on a set of characters.
+Write a function that decodes a Huffman coded string.
+Implement a function to implement a Lempel-Ziv compression algorithm.
+Create a function to implement a Run-Length Encoding (RLE) compression algorithm.
+Write a function to implement a Burrows-Wheeler Transform (BWT) compression algorithm.
+Implement a function to perform a discrete wavelet transform (DWT).
+Create a function that calculates the determinant of a tridiagonal matrix.
+Write a function that solves a system of linear equations with a tridiagonal matrix.
+Implement a function that performs spectral clustering on a graph.
+Create a function that calculates the PageRank of nodes in a graph.
+Write a function to implement k-means clustering on a dataset.
+Implement a function to perform principal component analysis (PCA).
+Create a function that performs singular value decomposition (SVD).
+Write a function to perform linear regression on a dataset.
+Implement a function to perform logistic regression on a dataset.
+Create a function that performs support vector machine (SVM) classification.
+Write a function to implement a naive Bayes classifier.
+Implement a function that performs a decision tree classification.
+Create a function to perform k-nearest neighbors (k-NN) classification.
+Write a function to implement a random forest classifier.
+Implement a function that performs a gradient boosting machine (GBM) classification.
+Create a function that performs neural network training using backpropagation.
+Write a function to implement a convolutional neural network (CNN).
+Implement a function to implement a recurrent neural network (RNN).
+Create a function to perform natural language processing tasks such as tokenization and stemming.
+Write a function that implements a basic search engine using inverted indexing.
+Implement a function to perform sentiment analysis on text data.
+Create a function to implement a chat bot using a sequence-to-sequence model.
+Write a function that translates text using a neural machine translation (NMT) model.
+Implement a function that generates text using a recurrent neural network (RNN) language model.
+Create a function that performs image recognition using a convolutional neural network (CNN).
+Write a function that performs object detection using a region-based convolutional neural network (R-CNN).
+Implement a function that performs image segmentation using a fully convolutional network (FCN).
+Create a function that performs video classification using a 3D convolutional neural network.
+Write a function that performs facial recognition using a deep learning model.
+Implement a function that generates images using a generative adversarial network (GAN).
+Create a function that performs style transfer using a convolutional neural network (CNN).
+Write a function that performs super-resolution on images using a deep learning model.
+Implement a function to perform image inpainting using a deep learning model.
+Create a function that performs image colorization using a deep learning model.
+Write a function that performs speech recognition using a recurrent neural network (RNN).
+Implement a function that performs speech synthesis using a deep learning model.
+Create a function that performs machine translation using a sequence-to-sequence model.
+Write a function that performs time series forecasting using recurrent neural networks (RNNs).
+Implement a function that performs anomaly detection in time series data.
+Create a function that performs recommendation systems using collaborative filtering.
+Write a function that performs recommendation systems using content-based filtering.
+Implement a function that performs recommendation systems using hybrid filtering.
+Create a function that performs graph embedding using node2vec.
+Write a function that performs link prediction in graphs.
+Implement a function that performs community detection in graphs.
+Create a function to implement a Bloom filter.
+Write a function to implement a counting Bloom filter.
+Implement a function to manage concurrent access to a shared resource using mutexes.
+Create a function to manage concurrent access to a shared resource using semaphores.
+Write a function to manage concurrent access to a shared resource using condition variables.
+Implement a function to implement a producer-consumer problem using threads.
+Create a function to implement a reader-writer problem using threads.
+Write a function that uses threads to perform parallel computation.
+Implement a function to create and manage threads using thread pools.
+Create a function to manage inter-thread communication using message queues.
+Write a function to synchronize access to shared memory using atomic operations.
+Implement a function to implement a lock-free data structure.
+Create a function to manage thread synchronization using barriers.
+Write a function that measures the performance of a function using time profiling.
+Implement a function to analyze memory usage of a program using memory profiling.
+Create a function to generate profiling reports of a program.
+Write a function that uses memory mapping to improve performance.
+Implement a function that uses shared memory for inter-process communication.
+Create a function that uses message queues for inter-process communication.
+Write a function that uses pipes for inter-process communication.
+Implement a function that uses sockets for inter-process communication.
+Create a function that implements a client-server architecture using sockets.
+Write a function that uses threads to handle multiple client connections concurrently.
+Implement a function to handle network errors using exception handling.
+Create a function that uses asynchronous I/O operations to improve performance.
+Write a function to create and manage TCP/IP sockets.
+Implement a function to create and manage UDP sockets.
+Create a function that handles TCP/IP socket timeouts.
+Write a function to parse command-line arguments using getopt().
+Implement a function to read and write data to configuration files.
+Create a function that handles signals and interrupts.
+Write a function to manage logging and error reporting.
+Implement a function to perform exception handling.
+Create a function that uses templates to implement a generic data structure.
+Write a function that uses templates to implement a generic algorithm.
+Implement a function to create a static library.
+Create a function to create a shared library.
+Write a function that uses dynamic linking to load a library.
+Implement a function that utilizes operator overloading.
+Create a function to build and use a custom exception class.
+Write a function to properly handle memory allocation and deallocation.
+Implement a function that uses RAII (Resource Acquisition Is Initialization).
+Create a function illustrating the use of inheritance in C++.
+Write a function showing polymorphism through virtual functions.
+Implement a function that demonstrates abstract base classes.
+Create a function using the Singleton design pattern.
+Write a function implementing the Factory design pattern.
+Implement a function showcasing the Observer design pattern.
+Create a function utilizing the Strategy design pattern.
+Write a function implementing the Decorator design pattern.
+Implement a function that uses the Adapter design pattern.
+Create a function that demonstrates the Facade design pattern.
+Write a function implementing the Template Method design pattern.
+Implement a function showcasing the Command design pattern.
+Create a function using the Iterator design pattern.
+Write a function demonstrating the Composite design pattern.
+Implement a function that showcases the State design pattern.
+Create a function that uses the Proxy design pattern.
+Write a function utilizing the Chain of Responsibility design pattern.
+Implement a function using the Mediator design pattern.
+Create a function demonstrating the Memento design pattern.
+Write a function illustrating the Interpreter design pattern.
+Implement a function showcasing the Visitor design pattern.
+Create a function using the Null Object design pattern.
+Write a function demonstrating the Builder design pattern.
+Implement a function showcasing the Abstract Factory design pattern.
+Create a function using the Prototype design pattern.
+Write a function demonstrating the Bridge design pattern.
+Implement a function showcasing the Flyweight design pattern.
+Implement a function that calculates the Fibonacci sequence iteratively up to a given number.
+Create a class representing a singly linked list with methods for insertion, deletion, and searching.
+Write a program to demonstrate the use of function pointers to perform different mathematical operations.
+Implement a template function to find the maximum element in an array of any comparable type.
+Write a program to read data from a file, process it, and write the results to another file using formatted output.
+Implement a function that recursively traverses a directory and prints the names of all files.
+Create a class that represents a queue using a circular buffer and implement enqueue, dequeue, and size operations.
+Write a program that simulates a simple producer-consumer scenario using threads.  (Note: Threading will require use of OS functions not listed).
+Implement a template function that performs a binary search on a sorted array of any comparable type.
+Create a class representing a polynomial, implementing addition and multiplication.
+Write a program that demonstrates exception handling (Note: This is not directly supported; this must be simulated using error codes).
+Implement a function to convert a decimal number to its binary representation.
+Create a class representing a complex number, including addition, subtraction, multiplication, and division.
+Write a program to generate all permutations of a given string.
+Create a class representing a graph and implement methods for depth-first and breadth-first traversals.
+Write a program that implements a simple text-based adventure game.
+Implement a function to perform a linear regression on a set of data points.
+Create a class that represents a hash table with methods for insertion, deletion, and search.
+Write a program to parse a simple arithmetic expression and evaluate it.
+Implement a function to calculate the greatest common divisor of two numbers using Euclid's algorithm.
+Create a class representing a date, including methods for adding and subtracting days.
+Write a program to sort a large dataset efficiently using merge sort.
+Implement a function to determine if a given year is a leap year.
+Create a class that implements a simple stack using a linked list.
+Write a program to read and write data in binary format.
+Implement a function to reverse a string in place.
+Create a class representing a playing card, including suit and rank.
+Write a program that simulates a simple card game, such as war or blackjack (simplified).
+Implement a function to calculate the area of various shapes (circle, triangle, rectangle, etc.).
+Create a class representing a fraction, including addition, subtraction, multiplication, and division.
+Write a program that demonstrates the use of bitwise operators.
+Implement a function to search for a specific pattern in a string using the Knuth-Morris-Pratt algorithm.
+Create a class representing a matrix, including addition, subtraction, multiplication, and transpose.
+Write a program to perform image processing operations (e.g. grayscale conversion), which would require using a 3rd-party library that is not provided.
+Implement a function to solve the Tower of Hanoi problem recursively.
+Create a class representing a simple banking account system, including deposit and withdrawal functionalities.
+Write a program to implement a rudimentary text editor.
+Implement a function to check for balanced parentheses in an arithmetic expression.
+Create a class representing a point in 2D or 3D space with operations such as distance calculation.
+Write a program to display a Mandelbrot fractal in the console.  (Simplifications may be necessary).
+Implement a function that performs matrix multiplication.
+Create a class representing a linked list with a tail pointer.
+Write a program that determines whether a graph is connected.
+Implement a function that encodes and decodes a string using a simple Caesar cipher.
+Create a class that represents a Huffman tree for data compression.
+Write a program that converts numbers from one base to another (e.g., decimal to hexadecimal).
+Implement a function to determine the nth prime number using a prime sieve.
+Create a class representing a priority queue using a heap data structure.
+Write a program that sorts an array using quicksort.
+Implement a function that efficiently removes duplicate elements from a sorted array.
+Create a class representing a trie for efficient string lookup.
+Write a program that evaluates postfix notation.
+Implement a function to convert infix notation to postfix notation.
+Create a class that represents a directed acyclic graph (DAG).
+Write a program that detects cycles in a directed graph using Depth First Search.
+Implement a function to check if a string is a valid IPv4 address.
+Create a class representing a URL and parsing its components.
+Write a program that performs string manipulation operations like substring, concatenation etc.
+Implement a function to check if a number is within a given range.
+Create a class to represent a simple date and time, enabling comparison and addition/subtraction of durations.
+Write a program that validates email addresses using regular expressions.  (Regular expression features not explicitly supported by provided libraries).
+Implement a function to check if a graph is bipartite using Breadth-First Search.
+Create a class that represents a simple calculator with basic arithmetic operations (+,-,*,/).
+Write a program that converts a given infix expression to its prefix form.
+Implement a function to determine the longest common subsequence of two strings.
+Create a class representing a doubly linked list.
+Write a program that uses dynamic memory allocation to manage an array of integers.
+Implement a function to sort an array of strings lexicographically.
+Create a class representing a simple game of tic-tac-toe.
+Write a program to simulate a dice roll using a pseudo-random number generator.
+Implement a function that checks whether a given integer is even or odd.
+Create a class representing a stack using a dynamically allocated array.  Demonstrate realloc().
+Write a program to calculate the factorial of a non-negative integer using iteration.
+Implement a recursive function that calculates the sum of the digits of an integer.
+Create a class representing a simple queue using an array.
+Write a function that finds the nth occurrence of a character in a string.
+Implement a function that calculates the length of a string.
+Create a class representing a simple bag/multiset data structure.
+Write a program that reads integers from a file and calculates the average.
+Implement a function that searches a given key in an array of numbers using linear search.
+Create a class that represents a simple vector.
+Write a program that generates a random number within a specific range.
+Implement a function to find the largest and smallest elements in an array.
+Create a class that encapsulates a counter and increment/decrement methods.
+Write a program that converts temperature between Celsius and Fahrenheit.
+Implement a function that performs bubble sort on an array of integers.
+Create a class representing a single node in a linked list.
+Write a program to swap two integers without using a temporary variable.
+Implement a function to check if a year is a leap year (different implementation from prior).
+Create a class that determines if a given number is prime.
+Write a program to validate user input (e.g., ensuring a number is within a range).
+Implement a function to convert Roman numerals to integers.
+Create a class that represents a simple calendar system.
+Write a program that determines the day of the week for a given date (simplified version, ignoring time zones).
+Create a class representing a self-balancing binary search tree (e.g., AVL tree or red-black tree).  (Simplifications may be necessary).
+Write a program to reverse the words in a sentence.
+Implement a function to calculate the median of an array of numbers.
+Create a class representing a node in a graph with adjacency list.
+Write a function to count the number of occurrences of a character in a string.
+Implement a function to find the index of the first occurrence of a given substring in a string.
+Create a class representing a simple bank account with interest calculation.
+Write a program to find the square root of a number without using `sqrt()` function (using Newton's method, or similar).
+Implement a function that performs a depth-first search on a graph.
+Create a class representing a breadth-first search algorithm on a graph.
+Write a program that generates the Fibonacci sequence recursively (up to limit).
+Implement a function to calculate the factorial of a number using iteration (alternative to prior recursive approach).
+Create a class representing a circular buffer, with enqueue and dequeue.
+Write a program to find the longest palindrome substring of a given string (Manacher's algorithm simplification may be required).
+Implement a function to perform an insertion sort on an array.
+Create a class representing a stack that keeps track of the minimum element.
+Write a program to display the Pascal's triangle.
+Implement a function to calculate the area of a polygon.
+Create a class to represent an integer set.
+Write a program to count the number of vowels in a string.
+Implement a function to remove all whitespace from a string.
+Create a class that represents a game board.
+Write a program to check whether a string contains only digits.
+Implement a function to perform string concatenation without using `strcat`.
+Create a class representing a simple text-based game.
+Write a program that checks if a bracket sequence is balanced (with curly braces).
+Implement a function to check if a number is a perfect square.
+Create a class to represent a two-dimensional array.
+Write a program to calculate the determinant of a 2x2 matrix.
+Implement a function to determine whether a given graph is a tree.
+Create a class that represents a set implemented using a bit vector.
+Write a function to count the number of lines in a file.
+Implement a function to check for balanced parenthesis in a given expression (using a stack).
+Create a class to represent a directed graph.
+Write a program to determine the shortest path between two nodes in an unweighted graph using breadth-first search.
+Implement a function that checks for balanced curly braces in an arithmetic expression.
+Create a class that performs matrix operations, such as addition, subtraction, and multiplication.  This uses dynamic allocation; demonstrate free().
+Write a program to find all permutations of a set.
+Implement a function that checks if two strings are anagrams of each other.
+Create a class to represent a queue using a dynamically allocated array.  Includes realloc().
+Write a program that implements a simple text-based inventory system.
+Implement a function to calculate the mean, median and mode of an array of integers.
+Create a class representing a linked list and adding functionalities for sorting.
+Write a program to implement a simple address book.
+Implement a function to find the intersection of two arrays.
+Create a class that models a simple queue with a limited capacity.  Will implement enqueue/dequeue with error handling.
+Write a function to convert uppercase characters to lowercase.
+Implement a function to check if a given character is an alphabet.
+Create a class that models a simple deck of cards.
+Write a program to simulate a simple lottery game.
+Implement a function to check if a given number is Armstrong number.
+Create a class that models a graph using an adjacency matrix.
+Write a program to implement a simple chat application (highly simplified version, using only `stdio.h` features).
+Implement a function to determine whether a given expression is an arithmetic expression or a boolean expression.
+Create a class that manages an array of integers, checking for boundary conditions before accessing elements.
+Write a function to implement a shell sort algorithm.
+Implement a function to validate a password by checking for minimum length, digit presence and special characters.
+Create a class to manage employees data in a company.
+Write a function to check whether a string is a valid XML tag.
+Implement a function to find the difference between two dates (without using `time.h`).
+Create a class that calculates the volume and surface area of a sphere.
+Write a program to check whether two arrays are equal.
+Implement a function to check whether a string is a palindrome (using iterators – this will need manual implementation of iterators).
+Create a class to represent a polynomial using a linked list.
+Write a program to perform matrix inversion. (Supports only 2x2, for simplicity).
+Implement a function to determine the longest increasing subsequence in an array.
+Create a class that performs operations on fractions, including addition, subtraction, multiplication, and division, handling errors such as division by zero.
+Write a program to implement a simple calculator.
+Implement a recursive function that finds the sum of elements in an array.
+Create a class that generates random numbers from a normal distribution.  (Simplification may be required).
+Write a function to calculate the dot product of two vectors.
+Implement a function to determine the greatest common divisor of an arbitrary number of integers.
+Create a class representing a point in 3D space that utilizes the distance formula.
+Write a program that sorts an array using radix sort. (Supports only integers in a specific range).
+Implement a recursive function to traverse a binary tree in pre-order, in-order and post-order.
+Create a class that manages a dynamically allocated list of strings.  Includes memory management.
+Write a function to find all prime factors of an integer.
+Implement a function that checks whether a binary tree is balanced.
+Create a class that represents a red-black tree. (Simplification of this advanced structure may be necessary).
+Write a program to perform various set operations (union, intersection, difference) on two sets.
+Implement a function to calculate the sum of squares of numbers in a given array.
+Create a class that performs calculations for a right-angled triangle.
+Write a program to calculate the distance between two points on the Earth's surface (using a simplified formula, ignoring the Earth's non-spherical shape).
+Implement a recursive function to find the nth term in the Fibonacci sequence.
+Create a class for representing complex numbers, with a supporting test suite using printf for verification of calculations.
+Write a function to compute the combinations (nCr) for given n and r.
+Implement a function to check if a graph is connected using depth-first search.
+Create a class that implements a LRU cache (Least Recently Used).
+Write a program to perform a topological sort on a directed acyclic graph (DAG).
+Implement a function that merges two sorted arrays into a single sorted array.
+Create a class that manages a priority queue implemented using a heap data structure, demonstrating heap operations like insertion, extraction and finding the maximum.
+Write a function to perform a shell sort on an array of integers.
+Implement a recursive function to generate all possible subsets of a given set.
+Create a class that performs basic string operations like string reversal and checking palindrome using pointer arithmetic instead of index-based access.
+Write a function to check if a binary tree is complete.
+Implement a function to evaluate a postfix expression using a stack-based approach.
+Create a class to manage student records in a university database, demonstrating basic CRUD (Create, Read, Update, Delete) operations.
+Write a function to detect and handle runtime errors such as division by zero or invalid array index. (Error codes rather than exceptions).
+Implement a function to flatten a nested list of integers.
+Create a class that represents a dictionary or map. (Hash table implementation will need manual hash function and collision resolution).
+Write a function to determine if a character is a vowel.
+Implement a function to implement the sieve of Eratosthenes algorithm.
+Create a class to calculate the area and perimeter of a rectangle.
+Write a program to implement a simple calculator which also handles the order of mathematical operations (precedence).  Simplified precedence rules.
+Implement a function to find the maximum contiguous subarray sum (Kadane's algorithm).
+Create a class that models a simple traffic light system (state transitions).
+Write a function to implement an efficient algorithm to find the kth smallest element in an array. (Simple approach rather than advanced selection).
+Implement a function to search a key in a given binary search tree.
+Create a class to implement a min heap.
+Write a function to calculate the factorial of a non-negative integer iteratively.
+Implement a function to check if a number is a power of two.
+Create a class to implement a simple stack using arrays, demonstrating proper boundary checking during push and pop operations.
+Write a program that counts the number of words in a file.
+Write a function to reverse a string in place using pointers.
+Create a class that simulates a simple queue using a circular buffer.
+Implement a recursive function to perform a depth-first search on a binary tree.
+Write a function to convert a decimal number to its binary equivalent.
+Create a class that simulates a deck of cards with methods for shuffling and dealing.
+Write a function to implement the bubble sort algorithm for an array of integers.
+Implement a recursive function to calculate the greatest common divisor of two numbers using Euclid's algorithm.
+Create a class that represents a simple bank account with methods for deposit, withdrawal, and balance check.
+Write a function to implement the insertion sort algorithm for an array of strings.
+Implement a template function to find the kth smallest element in an array of any type using quickselect.
+Create a class that represents a polynomial and supports addition and multiplication.
+Write a function to convert a Roman numeral to its decimal equivalent.
+Implement a recursive function to traverse a directory and list all files.
+Create a class that represents a graph and implements breadth-first search.
+Write a function to calculate the factorial of a number using iteration.
+Implement a function to convert a given string to uppercase using only `toupper()`.
+Create a class representing a doubly linked list with methods for insertion at the beginning, middle, and end.
+Write a function that determines whether a year is a leap year.
+Implement a function to check if a string is a valid email address.
+Create a class representing a binary heap with methods for insertion and deletion.
+Write a function to remove all duplicate characters from a string.
+Implement a recursive function that calculates the power of a number.
+Create a class that implements a hash table with separate chaining for collision resolution.
+Implement a function to perform a linear search on an array of integers.
+Create a class that implements a stack using a linked list.
+Write a function that converts a number from base 10 to base 2.
+Implement a function to check if a number is prime.
+Create a class that represents a complex number and defines addition, subtraction, and multiplication operators.
+Write a function to calculate the area of a triangle given three sides.
+Create a class that simulates a simple calculator with methods for addition, subtraction, multiplication and division.
+Implement a function to calculate the length of a string using pointers.
+Create a class that represents a matrix and supports matrix addition and multiplication.
+Write a function that checks if a string is an integer.
+Implement a recursive function to print the numbers from 1 to n.
+Create a class representing a date with methods for calculating the difference between two dates.
+Write a function to find the nth element of the Fibonacci sequence.
+Create a class that represents a rational number with methods for addition, subtraction, and division.
+Write a function that determines if a given character is a vowel.
+Create a class that represents a tree data structure with methods to add and remove nodes.
+Write a function to check for balanced parentheses in a given expression.
+Implement a function to convert celsius to fahrenheit.
+Create a class to represent a point in 2D space with distance calculating functionality.
+Write a function that rotates a given array by k positions.
+Implement a recursive function that calculates the tower of Hanoi.
+Create a class to represent a circle with methods to calculate area and circumference.
+Write a function to count the occurrences of a character in a string.
+Implement a recursive function to traverse a graph using depth-first search.
+Create a class that represents a student with attributes for name, ID, and grades.
+Write a function to perform binary search on a sorted array.
+Implement a recursive function to find the maximum depth of a binary tree.
+Create a class that represents a rectangle and provides area and perimeter calculation.
+Write a function to find the common elements in two arrays.
+Implement a recursive function to determine if a string is a valid parenthesis expression.
+Create a class that represents a simple timer with methods to start, stop, and reset.
+Write a function to convert a string to lowercase using only `tolower()`.
+Implement a recursive function to perform in-order traversal on a binary tree.
+Create a class that represents an employee with details about their salary and employment duration.
+Write a function to check if a triangle is valid given its sides.
+Implement a recursive function to generate permutations of a given array.
+Create a class that implements a priority queue using a heap.
+Write a function to solve the n-queens problem.
+Implement a recursive function to solve the 8-puzzle problem.
+Create a class representing a linked list that supports insertion and deletion at any index.
+Write a function to generate Pascal's triangle up to a given number of rows.
+Implement a function to find the longest palindrome substring in a given string.
+Create a class that represents a Huffman tree and provides encoding and decoding functionalities.
+Write a function to compute the determinant of a matrix using recursion.
+Implement a recursive function to find all paths in a maze.
+Create a class that represents a graph using an adjacency matrix and supports DFS and BFS.
+Write a function to check if a graph is connected.
+Implement a recursive function to sort an array using merge sort.
+Create a class representing a sparse matrix using a linked list.
+Write a function to find the shortest path in a graph using Dijkstra's algorithm.
+Implement a recursive function to calculate the number of ways to reach a given score in a game.
+Create a class representing a red-black tree with methods for insertion, deletion, and search.
+Write a function to perform topological sort on a directed acyclic graph.
+Create a class representing an AVL tree with methods for insertion, deletion, and search.
+Write a function to perform Huffman coding on a given string.
+Implement a recursive function to calculate the edit distance between two strings.
+Create a class representing a trie data structure that supports insertion, deletion, and search.
+Write a function to find the minimum spanning tree of a graph using Prim's algorithm.
+Implement a recursive function to print all the leaf nodes of a binary tree.
+Create a class representing a B-tree with methods for insertion, deletion, and search.
+Write a function to calculate the convex hull of a set of points using Graham's scan algorithm.
+Implement a recursive function to check if a binary tree is a binary search tree.
+Create a class representing a disjoint set data structure with path compression and union by rank.
+Write a function to find strongly connected components in a directed graph using Tarjan's algorithm.
+Create a class representing a custom exception with error handling mechanisms.
+Write a function to determine if two strings are anagrams of each other.
+Implement a recursive function to print the combinations of a given set of numbers.
+Create a class representing a date and time object with calculation of time differences.
+Write a function to calculate the mean, median, and mode of an array of numbers.
+Implement a recursive function to solve the fractional knapsack problem.
+Create a class representing a stack using an array with dynamic resizing capability.
+Write a function to find the kth largest element in an array using a min-heap.
+Implement a recursive function to generate all possible combinations of a given string.
+Create a class that simulates a traffic light controller.
+Write a function to check if a given number is a perfect square.
+Implement a recursive function to find the intersection points of two circles.
+Create a class that simulates a simple vending machine.
+Implement a recursive function to print the boundary nodes of a binary tree.
+Create a class representing a doubly linked list with functionality to reverse the list.
+Write a function to calculate the greatest common divisor of more than two numbers.
+Implement a recursive function that calculates the nth Catalan number.
+Create a class representing a graph with weighted edges and support for shortest path algorithms.
+Write a function to implement the shell sort algorithm for an array of integers.
+Implement a recursive function to find the longest common subsequence of two strings.
+Create a class to represent a simple queue with dynamic size capabilities.
+Implement a recursive function to check if a given graph is bipartite.
+Create a class that manages a library's book inventory, allowing for borrowing and returning books.
+Write a function to implement the counting sort algorithm for an array of integers.
+Implement a recursive function to traverse a tree in post-order.
+Create a class that represents a simple calculator with error handling for division by zero.
+Write a function that converts a decimal number to a Roman numeral.
+Implement a recursive function to search for a value in a binary search tree.
+Create a class representing a playing card with suit and rank attributes.
+Implement a recursive function to solve the 0/1 knapsack problem.
+Create a class that represents a node in a graph, holding node data and neighbor information.
+Write a function that determines whether a given graph is a tree.
+Implement a recursive function to print all the ancestors of a node in a binary tree.
+Create a class representing a simple stack with an indicator for underflow and overflow conditions.
+Write a function that calculates the nth harmonic number.
+Implement a recursive function to perform pre-order traversal on a binary tree.
+Create a class that represents a flight booking system, managing seats and reservations.
+Write a function to determine if a given string is a valid arithmetic expression.
+Implement a recursive function to solve the subset sum problem with duplicates allowed.
+Create a class that simulates a simple game of tic-tac-toe.
+Write a function to compute the sum of the elements of an array.
+Implement a recursive function to convert an integer to its corresponding string representation.
+Create a class representing a calendar with functionality to determine the day of the week for a given date.
+Write a function that calculates the number of trailing zeros in the factorial of a given number.
+Implement a recursive function to find the median of two sorted arrays.
+Create a class that implements a circular buffer with support for different data types.
+Write a function that converts a given base-10 integer into its binary, octal, and hexadecimal equivalents.
+Implement a recursive function to calculate the binomial coefficient.
+Create a class that simulates a simple ATM machine.
+Write a function that checks if a binary tree is balanced.
+Implement a recursive function to find all paths from the root to the leaves of a binary tree.
+Create a class to simulate a simple inventory system, tracking stock levels and reordering points.
+Write a function that checks if a binary tree is full.
+Create a class to simulate a simple elevator system managing multiple floors and requests.
+Write a function that checks if a binary tree is complete.
+Implement a recursive function to find the deepest node in a binary tree.
+Create a class that represents a railway reservation system, assigning seats based on availability and preferences.
+Write a function that checks if a binary tree is perfect.
+Implement a recursive function to compute the nth Fibonacci number.
+Create a class representing a binary search tree with insertion, deletion, and search methods.
+Write a function to reverse a string in-place without using any extra memory.
+Implement a singly linked list with functions for insertion, deletion, and traversal.
+Build a doubly linked list with functions for insertion at head and tail, deletion, and reversal.
+Develop a circular linked list with functions for insertion, deletion, and traversal.
+Create a class representing a queue using a dynamic array, implementing enqueue, dequeue, and peek operations.
+Implement a priority queue using a heap data structure, supporting insertion and extraction of the highest priority element.
+Write a function to implement a depth-first search on a graph represented as an adjacency matrix.
+Create a breadth-first search function on a graph using an adjacency list representation.
+Implement a function to check if a graph is bipartite using breadth-first search.
+Build a function to find the shortest path between two nodes in a graph using Dijkstra's algorithm.
+Develop a function to find the minimum spanning tree of a graph using Prim's algorithm.
+Implement a function to find the minimum spanning tree of a graph using Kruskal's algorithm.
+Write a function that performs topological sorting on a directed acyclic graph (DAG).
+Create a function to detect cycles in a directed graph using Depth-First Search (DFS).
+Implement a function to detect cycles in an undirected graph using Depth-First Search (DFS).
+Build a function to determine strongly connected components in a directed graph using Kosaraju's algorithm.
+Develop a function to represent and manipulate a disjoint-set data structure using path compression and union by rank.
+Create a class representing a stack using a linked list, implementing push, pop, and peek operations.
+Write a function to convert an infix expression to postfix notation using a stack.
+Implement a function to evaluate a postfix expression using a stack.
+Build a function to implement a recursive descent parser for a simple grammar.
+Develop a program to simulate a simple calculator with operator precedence using a stack.
+Create a class to simulate a simple compiler for arithmetic expressions.
+Implement a function that converts a binary number to its decimal representation.
+Build a function to perform quick sort on an array.
+Develop a function that implements merge sort on a linked list.
+Create a function that implements heap sort on an array.
+Write a function that implements counting sort on an array of non-negative integers.
+Implement a function that implements radix sort on an array of integers.
+Build a function to find the longest common subsequence of two strings.
+Develop a function to find the longest palindromic substring in a string.
+Create a function to implement the Knuth-Morris-Pratt (KMP) string searching algorithm.
+Write a function to implement the Boyer-Moore string searching algorithm.
+Implement a function that checks if a given string is a palindrome.
+Build a function that converts a given integer to its Roman numeral representation.
+Develop a function that converts a given Roman numeral to its integer representation.
+Create a function that calculates the greatest common divisor (GCD) of two integers using Euclid's algorithm.
+Write a function that calculates the least common multiple (LCM) of two integers.
+Implement a function that checks if a number is prime.
+Build a function to find all prime numbers within a given range using the Sieve of Eratosthenes.
+Develop a function that calculates the factorial of a number using iteration.
+Create a function that calculates the nCr (combination) using the formula.
+Write a function that solves the Tower of Hanoi problem using recursion.
+Build a function to transpose a matrix.
+Develop a function to find the determinant of a matrix.
+Create a function to find the inverse of a matrix.
+Write a function to perform Gaussian elimination on a matrix.
+Build a function to check if a given matrix is symmetric.
+Develop a function to check if a given matrix is orthogonal.
+Create a function to check if a given matrix is diagonal.
+Write a function to check if a given matrix is a scalar matrix.
+Implement a function to check if a given matrix is an identity matrix.
+Build a function to find the eigenvalues of a 2x2 matrix.
+Develop a function to find the eigenvectors of a 2x2 matrix.
+Create a function to check if a given graph is connected using Depth-First Search (DFS).
+Write a function to check if a given graph is connected using Breadth-First Search (BFS).
+Build a function to perform union-find using path compression and union by rank.
+Develop a function to detect cycles in a graph using Union Find.
+Create a function to check if a graph is a tree.
+Write a function to find the diameter of a tree.
+Implement a function to find the height of a binary tree.
+Build a function to find the lowest common ancestor (LCA) of two nodes in a binary tree.
+Develop a function that performs inorder traversal of a binary tree recursively.
+Create a function to perform inorder traversal of a binary tree iteratively using a stack.
+Write a function that performs preorder traversal of a binary tree recursively.
+Implement a function that performs preorder traversal of a binary tree iteratively using a stack.
+Build a function that performs postorder traversal of a binary tree recursively.
+Develop a function that performs postorder traversal of a binary tree iteratively using two stacks.
+Create a function to check if a binary tree is a binary search tree (BST).
+Write a function to balance a binary search tree (BST).
+Implement a function that converts a sorted array into a balanced binary search tree (BST).
+Build a function to perform level order traversal of a binary tree using a queue.
+Develop a function to find the maximum element in a binary tree.
+Create a function to find the minimum element in a binary tree.
+Write a function to construct a binary tree from inorder and preorder traversal.
+Implement a function to construct a binary tree from inorder and postorder traversal.
+Build a function to find the size (number of nodes) of a binary tree.
+Develop a function to check if two binary trees are identical.
+Create a function that implements a simple Huffman coding algorithm.
+Write a function that decodes a Huffman-encoded string.
+Implement a function to perform basic string manipulation operations like concatenation, substring extraction, and comparison.
+Build a function to check if a string is a valid palindrome.
+Develop a function to reverse a string using iterative approach.
+Create a function to convert a string to uppercase.
+Write a function to convert a string to lowercase.
+Build a function to remove duplicate characters from a string.
+Develop a function to find the frequency of each character in a string.
+Create a function to find all the permutations of a string.
+Write a function to check if a given character is a vowel or consonant.
+Implement a function to check if a given number is a perfect square.
+Build a function to find the square root of a number using the Babylonian method.
+Develop a function to check if a number is a palindrome.
+Create a function to find the sum of digits of a number.
+Write a function to generate Fibonacci numbers up to a certain limit.
+Implement a function that finds all the factors of a number.
+Build a function to check if a number is even or odd.
+Develop a function to convert a number to its string representation.
+Create a function to convert a string representation to a number.
+Write a function that computes the nth power of a number.
+Implement a function that calculates the sum of elements in an array.
+Build a function that finds the maximum element in an array.
+Develop a function that finds the minimum element in an array.
+Create a function that calculates the average of elements in an array.
+Write a function that rotates an array to the right by k positions.
+Implement a function that rotates an array to the left by k positions.
+Build a function to find all the unique elements in an array.
+Develop a function to check if an array is sorted in ascending order.
+Create a function to check if an array is sorted in descending order.
+Write a function that merges two sorted arrays into a single sorted array.
+Implement a function that finds the intersection of two sorted arrays.
+Build a function that finds the union of two sorted arrays.
+Develop a function to perform a binary search on a sorted array.
+Create a function that implements linear search on an array.
+Write a function to check if an element exists in an array.
+Implement a function to find the first occurrence of an element in an array.
+Build a function to find the last occurrence of an element in an array.
+Develop a function to find the number of occurrences of an element in an array.
+Create a function to remove all occurrences of an element from an array.
+Write a function to find the second largest element in an array.
+Implement a function to find the second smallest element in an array.
+Build a function that implements linear probing in a hash table.
+Develop a function that implements quadratic probing in a hash table.
+Create a function that implements double hashing in a hash table.
+Write a function that implements separate chaining in a hash table.
+Implement a function that computes the hash value for a string.
+Build a function to check if a given number is within a specified range.
+Develop a function that computes the absolute value of a number.
+Create a function that rounds a number to the nearest integer.
+Write a function that computes the factorial of a number using iterative approach.
+Implement a function that checks for leap year.
+Build a function to compute the number of days in a month.
+Develop a function to check if two strings are equal case insensitively.
+Create a function to remove leading and trailing white spaces from a string.
+Write a function that calculates the length of a string without using strlen().
+Implement a function to replace a character in a string with another.
+Build a function that converts a string to its reverse.
+Develop a function to calculate the Euclidean distance between two points in 2D space.
+Create a function that converts Fahrenheit to Celsius.
+Write a function that converts Celsius to Fahrenheit.
+Implement a function that calculates the area of a triangle.
+Build a function that calculates the volume of a sphere.
+Develop a function that calculates the circumference of a circle.
+Create a function to simulate a simple dice roll.
+Write a function to calculate the area of a rectangle.
+Implement a function that calculates the area of a square.
+Build a function that calculates the area of a trapezoid.
+Develop a function to solve a quadratic equation using the quadratic formula.
+Create a function that calculates the distance between two points in 3D space.
+Write a function to solve for hypotenuse of a right angled triangle.
+Implement a function that calculates the volume of a cube.
+Build a function that calculates the surface area of a cube.
+Develop a function to calculate the surface area of a sphere.
+Create a function to calculate the volume of a cone.
+Write a function to find the roots of a cubic equation using numerical methods.
+Implement a function to perform numerical integration using the trapezoidal rule.
+Build a function to perform numerical differentiation using the central difference method.
+Develop a function to solve a system of non-linear equations using Newton's method.
+Create a function to find the minimum value of a function using the golden section search.
+Write a function to simulate a simple random walk.
+Implement a function that generates random numbers within a specified range.
+Build a function to compute the mean and standard deviation of a set of numbers.
+Develop a function that calculates the median of a set of numbers.
+Create a function to calculate the mode of a set of numbers.
+Write a function to find the range of a set of numbers.
+Implement a function to check for Armstrong number.
+Build a function that determines if a given year is a leap year using Zeller’s congruence.
+Develop a function that converts a given date to Julian date.
+Create a function to sort an array of structures based on a specific field.
+Write a function to search for a structure in an array based on a specific field.
+Implement a function to implement a circular buffer using array.
+Build a function to implement a bitset using an array of integers.
+Develop a function to simulate a simple memory allocator using first-fit algorithm.
+Create a function to simulate a simple memory allocator using best-fit algorithm.
+Write a function to simulate a simple memory allocator using worst-fit algorithm.
+Implement a function to simulate a simple memory manager with garbage collection.
+Build a function that checks if a string is a valid email address using regular expressions.
+Develop a function that checks if a string is a valid URL.
+Create a function that parses a comma-separated value (CSV) file.
+Write a function that extracts information from a log file based on specified patterns.
+Implement a function to perform data validation based on predefined criteria.
+Build a function to calculate the factorial of a large number using arbitrary-precision arithmetic.
+Develop a function to implement modular exponentiation.
+Create a function to perform RSA encryption and decryption.
+Write a function to generate random prime numbers using Miller-Rabin primality test.
+Implement a function to implement a Diffie-Hellman key exchange.
+Build a function to implement AES encryption and decryption.
+Develop a function to calculate the greatest common divisor of two large integers.
+Create a function to solve the 8-queens problem.
+Write a function to generate all subsets of a set.
+Implement a function that implements the backtracking algorithm.
+Build a function to generate all permutations of a set.
+Develop a function that performs n-queens algorithm using backtracking.
+Create a function that solves the subset sum problem.
+Write a function to solve the knapsack problem using dynamic programming.
+Implement a function that solves the travelling salesman problem using nearest neighbor algorithm.
+Build a function to check for validity of a Sudoku solution.
+Develop a function to generate a solvable Sudoku puzzle.
+Create a function to implement the A* search algorithm.
+Write a function to calculate the shortest path using Bellman-Ford algorithm.
+Implement a function to implement a Red-Black tree.
+Build a function to implement an AVL tree.
+Develop a function that checks if two graphs are isomorphic.
+Write a function to check for palindromic primes.
+Implement a function to check for perfect numbers.
+Build a function to check for amicable numbers.
+Develop a function to solve the n-puzzle problem using A* search algorithm.
+Create a function to find the nth catalan number.
+Write a function to find the number of ways to parenthesize n items using catalan number.
+Implement a function to find maximum subarray sum using Kadane's algorithm.
+Build a function to implement a Trie for efficient string searching.
+Develop a function to implement a Suffix Tree for fast string operations.
+Create a function to use a Finite State Machine to parse a string.
+Write a function to find the longest increasing subsequence in a given array.
+Implement a function that solves the rod cutting problem.
+Build a function to solve the matrix chain multiplication problem using dynamic programming.
+Develop a function that solves the coin change problem using dynamic programming.
+Create a function that implements the Floyd-Warshall algorithm for finding all pairs shortest paths in a graph.
+Write a function to implement the Johnson's algorithm for finding all pairs shortest paths in a graph with negative edge weights.
+Implement a function to implement a simple expression evaluator using a stack-based approach.
+Build a function to implement a recursive descent parser for a simple grammar with support for arithmetic operators and parentheses.
+Develop a function to convert infix notation to postfix notation for evaluation using a stack-based approach.
+Create a function to perform bitwise operations (AND, OR, XOR, NOT) on integers.
+Write a function that manipulates bits in an integer (e.g., setting, clearing, toggling bits).
+Implement a function to convert an integer to its binary, octal, or hexadecimal representation.
+Build a function to check if two integers are equal using bitwise operations.
+Develop a function to count the number of set bits in an integer.
+Create a function to find the next power of 2 greater than or equal to a given number.
+Write a function that implements a simple CRC (Cyclic Redundancy Check) algorithm.
+Implement a function to encode and decode using a simple substitution cipher.
+Build a function to encode and decode using a Caesar cipher.
+Develop a function to perform a columnar transposition cipher encryption and decryption.
+Create a function to simulate a simple RSA encryption and decryption scheme.
+Write a function to implement a simple XOR cipher.
+Implement a function to perform a left bit rotation on an integer.
+Build a function to perform a right bit rotation on an integer.
+Develop a function to pack several integers into a single larger integer.
+Create a function to unpack several integers from a single larger integer.
+Write a function to find the index of the first bit set in an integer.
+Implement a function to find the index of the last bit set in an integer.
+Build a function to count the number of trailing zeros in an integer.
+Develop a function to implement a bit field using bitwise operations.
+Create a function to reverse the bits of an integer.
+Write a function to calculate the Hamming distance between two integers.
+Implement a function to perform a bitwise shift and rotate operations.
+Build a function to calculate the population count (number of set bits) in an integer.
+Develop a function to find the least significant bit (LSB) of an integer.
+Create a function to find the most significant bit (MSB) of an integer.
+Write a function to detect if two integers have the same set bits.
